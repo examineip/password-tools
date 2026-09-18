@@ -1,0 +1,13 @@
+{
+  "name": "password-tools",
+  "version": "1.0.0",
+  "description": "Honest password strength estimates, cryptographically random password and passphrase generators (EFF wordlist), and a private Have I Been Pwned check.",
+  "main": "password-tools.js",
+  "private": true,
+  "scripts": { "test": "node tests/run.js" },
+  "keywords": ["password", "passphrase", "diceware", "eff-wordlist", "password-strength", "entropy", "haveibeenpwned", "k-anonymity"],
+  "license": "MIT",
+  "repository": { "type": "git", "url": "https://github.com/examineip/password-tools.git" },
+  "homepage": "https://tools.examineip.com/password-tools/",
+  "engines": { "node": ">=18" }
+}
